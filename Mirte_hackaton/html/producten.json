@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name":" Mirte light",
+        "price": 200,
+        "image": "img/light_render.png"
+    },
+    {
+        "id": 2,
+        "name":" Mirte basic",
+        "price": 250,
+        "image": "img/basic_render.png"
+    },
+    {
+        "id": 3,
+        "name":" Mirte pioneer",
+        "price": 290,
+        "image": "img/pioneer_render.png"
+    }
+]

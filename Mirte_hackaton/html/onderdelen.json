@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":" DC motor",
+        "price": 4,
+        "image": "img/geardcmotor.png"
+    },
+    {
+        "id": 2,
+        "name":" 2x wiel",
+        "price": 6,
+        "image": "img/wiel.png"
+    },
+    {
+        "id": 3,
+        "name":" baterijpack AA",
+        "price": 10,
+        "image": "img/aabaterijpack.png"
+    },
+    {
+        "id": 4,
+        "name":" motor controler",
+        "price": 9,
+        "image": "img/moter_controler.png"
+    },
+    {
+        "id": 5,
+        "name":" distens sensor",
+        "price": 6,
+        "image": "img/distenssensor.png"
+    },
+    {
+        "id": 6,
+        "name":" rasberry pi pico",
+        "price": 4,
+        "image": "img/rasberry_pi_pico.png"
+    }
+]
