@@ -46,6 +46,20 @@ section{
     transform: scale(1.1);
     background: var(--grijsblauw);
 }
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  .image {
+    float: left;
+    margin-right: 20px;
+  }
+  
 /* universal styling */
 body {
     margin: 0;
